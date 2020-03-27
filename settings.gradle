@@ -1,0 +1,4 @@
+rootProject.name = 'bcrypt-mpp'
+enableFeaturePreview('GRADLE_METADATA')
+
+include ":bcrypt"
